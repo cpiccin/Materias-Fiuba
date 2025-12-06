@@ -1,5 +1,11 @@
 # Materias
 
+[Gestion del Desarrollo de Sistemas Informaticos <br>
+Curso Fontela - C225](https://github.com/cpiccin/Gestion-del-Desarrollo-de-Sistemas-Informaticos)
+
+[Empresas de Base Tecnologica I<br>
+Curso Godoy - C225](https://github.com/cpiccin/Empresas-de-Base-Tecnologica-I)
+
 [Ingenieria de Software I<br>
 Curso Montaldo - C125](https://github.com/cpiccin/Ingenieria-de-Software-I.git)
 
