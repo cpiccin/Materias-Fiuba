@@ -1,5 +1,11 @@
 # Materias
 
+[Teoria de Algoritmos <br>
+Curso Buchwald - C225](https://github.com/cpiccin/Teoria-de-Algoritmos)
+
+[Sistemas Operativos <br>
+Curso Mendez - C225](https://github.com/cpiccin/Sistemas-Operativos)
+
 [Gestion del Desarrollo de Sistemas Informaticos <br>
 Curso Fontela - C225](https://github.com/cpiccin/Gestion-del-Desarrollo-de-Sistemas-Informaticos)
 
