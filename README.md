@@ -1,5 +1,11 @@
 # Materias
 
+[Ciencia de Datos <br>
+Curso Rodríguez - C126](https://github.com/cpiccin/Ciencia-de-Datos.git)
+
+[Lenguajes y Compiladores I <br>
+Curso Del Mazo - C126](https://github.com/cpiccin/Lenguajes-y-Compiladores-I.git)
+
 [Teoria de Algoritmos <br>
 Curso Buchwald - C225](https://github.com/cpiccin/Teoria-de-Algoritmos)
 
@@ -32,4 +38,3 @@ Curso Román - C125](https://github.com/cpiccin/Base-de-Datos.git)
 
  [Algoritmos y Programacion I<br>
  Curso Essaya - C222](https://github.com/cpiccin/Algoritmos-y-Programacion-I)
-
